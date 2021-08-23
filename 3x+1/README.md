@@ -1,4 +1,4 @@
-### 3x+1
+## 3x+1
 
 3X+1 é um problema matemático intrigante.
 
